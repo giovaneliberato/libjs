@@ -1,0 +1,38 @@
+{
+  "name": "libjs",
+  "title": "libJS",
+  "description": "A new javascript library",
+  "keywords": [
+    "libjs",
+    "library",
+    "framework"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Guilherme Pontes",
+    "url": "https://github.com/guihermepontes"
+  },
+  "maintainers": [
+    {
+      "name": "Guilherme Pontes",
+      "email": "guilhermepontes@msn.com",
+      "url": "https://github.com/guihermepontes"
+    },
+    {
+      "name": "Seu nome",
+      "url": "https://github.com/seugithub"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/guilhermepontes/libjs/issues",
+  "homepage": "https://github.com/guilhermepontes/libjs",
+  "docs": "hhttps://github.com/guilhermepontes/libjs",
+  "dependencies": {
+    "none": "none"
+  }
+}
