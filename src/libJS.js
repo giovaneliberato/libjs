@@ -9,7 +9,12 @@
   var libJS = function (selector) {
       // auto-create new instance without the 'new' keyword
       return new libJS.prototype.init(selector);
-    };
+    },
+
+  push    = [].push,
+  slice   = [].slice,
+  splice  = [].splice,
+  forEach = [].forEach;
 
   libJS.prototype = {
     constructor: libJS,
